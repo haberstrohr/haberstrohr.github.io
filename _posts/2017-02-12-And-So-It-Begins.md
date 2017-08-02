@@ -6,8 +6,6 @@ categories: blog
 date: 2017-02-12
 ---
 
-## Introduction
-
 The following is an anectdote that is representative of an "ah-ha" moment that has led me to where I am currently at in my career, and continues to push me forward.
 
 ## The setup
