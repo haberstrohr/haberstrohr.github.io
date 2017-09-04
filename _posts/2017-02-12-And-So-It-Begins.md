@@ -2,9 +2,10 @@
 layout: post
 title: "And so it begins"
 date: 2017-02-12
+bigimg: /img/JoshuaTree17.jpg
 ---
 
-# And so it begins #
+# And so it begins
 
 I was at VMworld 2015 attending a panel discussion titled "Why Automation isn't Automagic". It was paneled by  people from 
 Puppet, Chef, Ansible, and Microsoft. The discussion centered around how traditional IT Ops could transition to an automation 
