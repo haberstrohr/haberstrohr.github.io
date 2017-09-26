@@ -4,7 +4,7 @@ title:      Get-VesterTest Changes
 date:       2017-09-01 15:00:00
 author:     Robin Haberstroh
 summary:    Updating Get-VesterTest to include a custom view
-categories: PowerShell
+categories: Blog
 tags:
  - Vester
  - PowerShell
